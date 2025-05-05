@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "id ": 1,
+      "checked": false,
+      "item": "JAVA",
+      "id": "ac76"
+    },
+    {
+      "id ": 2,
+      "checked": false,
+      "item": "JavaScript",
+      "id": "be33"
+    },
+    {
+      "id ": 3,
+      "checked": false,
+      "item": "SpringBoot",
+      "id": "8986"
+    },
+    {
+      "id ": 4,
+      "checked": false,
+      "item": "React",
+      "id": "e4dc"
+    },
+    {
+      "id": "e4dc1",
+      "checked": false,
+      "item": "MongoDB"
+    },
+    {
+      "id": "e4dc11",
+      "checked": false,
+      "item": "Github"
+    }
+  ]
+}

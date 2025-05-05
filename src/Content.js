@@ -3,7 +3,7 @@ import React from 'react'
 import ItemList from './ItemList';
 const Content = ({items,handleChange,del}) => {
   return (
-    <main> 
+    <> 
       {(items.length) ? (
         <ItemList 
         items = {items}
@@ -17,7 +17,7 @@ const Content = ({items,handleChange,del}) => {
       }}> Your To Do is Empty </p>
       )
       }
-    </main>
+    </>
     
   )
 }
